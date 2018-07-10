@@ -15,6 +15,14 @@
     "@ckeditor/ckeditor5-core" "^10.1.0"
     "@ckeditor/ckeditor5-upload" "^10.0.1"
 
+"@ckeditor/ckeditor5-alignment@^10.0.1":
+  version "10.0.1"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-alignment/-/ckeditor5-alignment-10.0.1.tgz#a1dc627c4e392bdfce2110e4fdf2852f1b2e5318"
+  dependencies:
+    "@ckeditor/ckeditor5-core" "^10.1.0"
+    "@ckeditor/ckeditor5-engine" "^10.1.0"
+    "@ckeditor/ckeditor5-ui" "^10.1.0"
+
 "@ckeditor/ckeditor5-autoformat@^10.0.1":
   version "10.0.1"
   resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-autoformat/-/ckeditor5-autoformat-10.0.1.tgz#ef8c0f1d601ba518a0cb6c9df22c8787f9f86512"
@@ -132,6 +140,15 @@
     "@ckeditor/ckeditor5-typing" "^10.0.1"
     "@ckeditor/ckeditor5-undo" "^10.0.1"
 
+"@ckeditor/ckeditor5-font@^10.0.1":
+  version "10.0.1"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-font/-/ckeditor5-font-10.0.1.tgz#1ef7feddf77eccaf9f321816125d1f2bb4a56ba8"
+  dependencies:
+    "@ckeditor/ckeditor5-core" "^10.1.0"
+    "@ckeditor/ckeditor5-engine" "^10.1.0"
+    "@ckeditor/ckeditor5-ui" "^10.1.0"
+    "@ckeditor/ckeditor5-utils" "^10.1.0"
+
 "@ckeditor/ckeditor5-heading@^10.0.1":
   version "10.0.1"
   resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-heading/-/ckeditor5-heading-10.0.1.tgz#285a130385292559faf89038e048ee5ef880a90b"
@@ -142,6 +159,14 @@
     "@ckeditor/ckeditor5-theme-lark" "^10.1.0"
     "@ckeditor/ckeditor5-ui" "^10.1.0"
     "@ckeditor/ckeditor5-utils" "^10.1.0"
+
+"@ckeditor/ckeditor5-highlight@^10.0.1":
+  version "10.0.1"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-highlight/-/ckeditor5-highlight-10.0.1.tgz#49b4bdb621e8e1aaaff6c4bb4f5b019f30cf991b"
+  dependencies:
+    "@ckeditor/ckeditor5-core" "^10.1.0"
+    "@ckeditor/ckeditor5-engine" "^10.1.0"
+    "@ckeditor/ckeditor5-ui" "^10.1.0"
 
 "@ckeditor/ckeditor5-image@^10.1.0":
   version "10.1.0"
@@ -182,6 +207,15 @@
     "@ckeditor/ckeditor5-engine" "^10.1.0"
     "@ckeditor/ckeditor5-ui" "^10.1.0"
     "@ckeditor/ckeditor5-utils" "^10.1.0"
+
+"@ckeditor/ckeditor5-table@^10.0.0":
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-table/-/ckeditor5-table-10.0.0.tgz#79acaad4c61ca8789cfa7a12fd1c0295fffd4737"
+  dependencies:
+    "@ckeditor/ckeditor5-core" "^10.1.0"
+    "@ckeditor/ckeditor5-engine" "^10.1.0"
+    "@ckeditor/ckeditor5-ui" "^10.1.0"
+    "@ckeditor/ckeditor5-widget" "^10.1.0"
 
 "@ckeditor/ckeditor5-theme-lark@^10.1.0":
   version "10.1.0"

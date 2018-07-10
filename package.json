@@ -41,6 +41,7 @@
     "@ckeditor/ckeditor5-paragraph": "^10.0.1",
     "@ckeditor/ckeditor5-theme-lark": "^10.1.0",
     "@ckeditor/ckeditor5-upload": "^10.0.1",
+    "ckeditor5-graphcool-upload": "./plugins/ckeditor5-graphcool-upload",
     "postcss-loader": "^2.1.5",
     "raw-loader": "^0.5.1",
     "style-loader": "^0.21.0",
@@ -65,5 +66,6 @@
     "create-entry-file": "node bin/create-entry-file.js",
     "build-ckeditor": "sh bin/build-ckeditor.sh",
     "preversion": "npm run build; if [ -n \"$(git status src/ckeditor.js build/ --porcelain)\" ]; then git add -u src/ckeditor.js build/ && git commit -m 'Internal: Build.'; fi"
-  }
+  },
+  "dependencies": {}
 }
